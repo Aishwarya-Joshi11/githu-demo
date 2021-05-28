@@ -3,7 +3,7 @@ def add(x,y):
     return x+y  # on aishwarya_joshi branch
 #Sutract implemetation
 def subtract(x,y):
-    pass
+    return x-y # on Bug123 branch
 
 def multiply(x,y):
     pass
