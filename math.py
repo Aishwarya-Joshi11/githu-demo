@@ -1,6 +1,6 @@
 # add implemetation
 def add(x,y):
-    pass
+    return x+y  # on aishwarya_joshi branch
 #Sutract implemetation
 def subtract(x,y):
     pass
